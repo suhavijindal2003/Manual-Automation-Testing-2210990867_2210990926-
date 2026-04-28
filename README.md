@@ -1,18 +1,28 @@
-This repository contains my work in Manual and Automation Testing, showcasing real-world testing practices and quality assurance skills. It includes test cases, bug reports, test plans, and automated test scripts developed using modern testing tools.
+Manual and Automation Testing Project
 
-🔹 Manual Testing:
+👨‍🎓 Team Members
+- Name: Suhavi Jindal
+- Roll No: 2210990867
 
-Test case design and execution
-Bug tracking and reporting
-Functional and regression testing
+- Name: Umarpreet Grover
+- Roll No: 2210990926
 
-🔹 Automation Testing:
+📌 Project Description
+This project includes both Manual and Automation Testing of demo.opencart.com.
 
-Automated test scripts using tools like Playright
-Test execution and reporting
-Framework-based testing approach
+🧪 Testing Types
+- Manual Testing
+- Automation Testing (Playwright)
 
-🛠️ Tools & Technologies:
-Playwright | GitHub
+📂 Folder Structure
+- Manual_Testing
+- Automation_Testing
+- Project_Documentation
 
-🎯 The goal of this repository is to demonstrate my understanding of software testing concepts and my ability to ensure application quality through both manual and automated approaches.
+🛠 Tools Used
+- Playwright
+- JavaScript
+- Excel (Test Cases)
+
+🔗 GitHub Link
+https://github.com/suhavijindal2003/Manual-and-Automation-Testing-copyright
